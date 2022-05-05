@@ -58,10 +58,9 @@ Our advanced database program was able to complement our application by providin
 <b>Neil</b>: 
 The JavaScript to link the frontend with the API calls in the backend was the most difficult for me. I was doing a lot of async JS work since our API calls took longer than a second. Working with asynchronous code is already challenging enough. Learning JS on top of working with async API calls was the most challenging aspect. The indexing portion was also slightly challenging because it felt like we were guessing which indexes would optimize our queries. It felt like we were in the dark. I think that this section would have been much easier if it was assigned after the query processing/query optimization lectures. 
 
-<b>Amaan</b>: Coding the Flask app was pretty challenging for me as I did not have knowledge of Javascript and Flask before this project. In the beginning I was running into many errors and had to spend some time debugging the errors associated with Flask. Indexing was also difficult because I felt I didn't have enough knowledge on the subject. 
+<b>Amaan</b>: 
 
-
-<b>Akul</b>: 
+<b>Akul</b>: Development of the backend endpoints and functions to execute various SQL tasks to return data to the frontend was the most difficult aspect for me. I had not previously had a lot of backend experience so I learned how to create the backend endpoints, understand different libraries that would be useful, and how to integrate SQL functionality to execute accurately and understand how to correctly return the response objects. It was also challenging to add the heat map and adjust the map to accurately display the reservations. 
 
 <b>Shalin</b>: 
 The creation of the trigger was difficult because of the subquery that needed to be written where we needed to select from `rooms`. For this subquery, the return value of the subquery needed to be stored in a variable, and then set to its incremented value. This logic was difficult to understand as without a variable, using SQL to increment it was difficult. This, combined with the `UPDATE` statement caused me trouble as we had to match rooms with the new.RoomID for the RoomID of the newely inserted row. 
