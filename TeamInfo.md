@@ -22,7 +22,7 @@
 |  Title      |       iReserve         |
 | System URL (Azure)  |      http://ireserve.neilkaushikkar.com/    |
 | System URL (GCP)  |      https://ireserve-yurmzut6wq-uc.a.run.app/    |
-| Video Link  |      link_to_video     |
+| Video Link  |      https://youtu.be/4GmyBGY7dPc     |
 
 ## Project Summary
 
