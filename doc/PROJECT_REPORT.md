@@ -58,7 +58,8 @@ Our advanced database program was able to complement our application by providin
 <b>Neil</b>: 
 The JavaScript to link the frontend with the API calls in the backend was the most difficult for me. I was doing a lot of async JS work since our API calls took longer than a second. Working with asynchronous code is already challenging enough. Learning JS on top of working with async API calls was the most challenging aspect. The indexing portion was also slightly challenging because it felt like we were guessing which indexes would optimize our queries. It felt like we were in the dark. I think that this section would have been much easier if it was assigned after the query processing/query optimization lectures. 
 
-<b>Amaan</b>: 
+<b>Amaan</b>: Coding the Flask app was pretty challenging for me as I did not have knowledge of Javascript and Flask before this project. In the beginning I was running into many errors and had to spend some time debugging the errors associated with Flask. Indexing was also difficult because I felt I didn't have enough knowledge on the subject. 
+
 
 <b>Akul</b>: 
 
